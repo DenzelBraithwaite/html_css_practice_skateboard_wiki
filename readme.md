@@ -1,4 +1,5 @@
-<!-- This README file is for practice. -->
+<!-- I was surprised that comments don't show up on the github "preview" of this README unless you edit the file. -->
+This README file is for practice.
 
 Before opening any files or reading any code, please take your socks off, thank you.
 
