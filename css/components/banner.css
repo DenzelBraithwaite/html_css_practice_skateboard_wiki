@@ -34,7 +34,7 @@
 	opacity: 0.6;
 }
 
-.button-banner {
+#button-banner {
 	text-decoration: none;
 	color: rgb(240, 240, 240);
 	border: 1px solid rgb(10, 10, 10);
@@ -52,7 +52,7 @@
 
 }
 
-.button-banner:hover {
+#button-banner:hover {
 	text-underline-offset: 0.1em;
 	text-decoration-color: rgba(255, 255, 255, 0.4);
 	color: white;
