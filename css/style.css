@@ -1,0 +1,45 @@
+/*Import goes on top*/
+
+@import url("components/reset.css");
+@import	url("components/avatar.css");
+@import url("components/buttons.css");
+@import url("components/card.css");
+@import url("components/badge.css");
+@Import url("components/banner.css");
+@import url("components/article.css");
+@import url("components/footer.css");
+
+
+body {
+	background: linear-gradient(360deg, white, lightcyan 90%);
+	text-align: center;
+
+}
+
+body, .container {
+	min-width: 100%;
+	padding: 0;
+	align-items: center;
+}
+
+h2 {
+	font-weight: bold;
+	font-family: cursive;
+}
+
+
+* {
+	box-sizing: border-box;
+}
+
+#video-skateboard {z
+	border-radius: 1px solid black;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}

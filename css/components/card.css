@@ -1,0 +1,60 @@
+.card-container {
+	min-width: 48%;
+	float: right;
+	margin-right: 0;
+}
+
+.card h2 {
+margin-top: 3vh;
+}
+
+.card {
+	height: 25vh;
+	color: whitesmoke;
+	position: relative;
+	margin: 2vh 0;
+	font-size: 80%;
+	}
+
+
+.card-category {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.card-description {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
+.card-avatar {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+.card-elisa {
+	background: linear-gradient(360deg,
+	rgba(122, 38, 25, 0.9), rgba(43, 32, 31, 0.1)),url("../../resources/images/elisa_board.png");
+	background-size: cover;
+}
+
+.card-elisa:hover {
+	background: linear-gradient(360deg, rgba(10, 10, 10, 0.9), rgba(10, 10, 10, 0.1)),url("../../resources/images/elisa_board.png");
+	background-size: cover;
+}
+
+
+.card-weichi {
+	background: linear-gradient(360deg, rgba(10, 10, 10, 0.9), rgba(10, 10, 10, 0.1)),url("../../resources/images/weichi_board.png");
+	background-size: cover;
+}
+
+.card-weichi:hover {
+	background: linear-gradient(360deg,
+	rgba(0, 19, 57,0.9), rgba(0, 19, 57, 0.1)),url("../../resources/images/weichi_board.png");
+	background-size: cover;
+}
+

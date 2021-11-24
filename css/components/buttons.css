@@ -1,0 +1,45 @@
+.button-calm {
+	text-decoration: none;
+	background-color: rgb(98, 112, 127);
+	color: rgb(240, 240, 240);
+	/*border: 1px solid rgb(88, 102, 117);*/
+	background: linear-gradient(70deg, rgb(88, 102, 117), rgb(98, 112, 127));
+	border-radius: 25%;
+	padding: 20px 24px;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-family: cursive;
+	font-size: 20px;
+	opacity: 1;
+	position: relative;
+	bottom: 10px;
+}
+
+.button-calm:hover {
+	color: lightcyan;
+	font-weight: normal;
+	position: relative;
+	bottom: 11px;
+	box-shadow: 1px 1px 5px darkgrey;
+	opacity: 0.95;
+}
+
+.button-pop {
+	text-decoration: none;
+	font-family: monospace;
+	color: whitesmoke;
+	padding: 10px;
+	border-radius: 10%;
+	background: linear-gradient(0deg, darkgreen 10%, lightgreen 90%);
+	box-shadow: 1px 1px darkgrey;
+}
+
+.button-pop:hover	{
+	background: linear-gradient(0deg, darkgreen, lightgreen);
+	color: whitesmoke;
+	
+
+
+}
+
